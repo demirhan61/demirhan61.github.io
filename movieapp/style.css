@@ -1,0 +1,75 @@
+.navbar, .dropdown-menu{
+	background-color: #fc997c;
+}
+
+.navbar-brand{
+	color:white;
+}
+
+.nav-item a{
+	color:white;
+}
+
+.carousel-inner img{
+	height:450px;
+}
+
+.dh-how-it-works h1,.dh-how-it-works p{
+	text-align: center;
+}
+
+.dh-plans .icon{
+	font-size: 50px;
+	color:#fc997c;
+}
+
+
+.dh-features img{
+	width:100%;
+}
+
+.card-body button{
+	background-color:#fc997c;
+	color:white;
+}
+
+
+.recom_card{
+	background-color:#396EB0;
+	color:white;
+}
+
+.recom_card .list-group-item{
+	background-color: #396EB0;
+	color:white;
+}
+
+.recom_class{
+	color:#fc997c;
+	background-color: white ;
+	border:1px solid white;
+	border-radius: 4px;
+}
+
+.dh-counters{
+	background-color: #fc997c;
+	padding:55px 65px;
+	margin:12px 16px;
+	color:white;
+}
+
+.dh-latest-movies img{
+	height:350px;
+}
+
+.dh-latest-movies button{
+	background-color: #fc997c;
+	border: 1px solid #fc997c;
+}
+
+.dh-footer{
+	background-color: #2c2cba;
+	color:white;
+}
+
+
