@@ -1,3 +1,30 @@
 .dh-form-language{
     width: 100px;
 }
+
+.dh-navbar .bg-light{
+    background-color: white !important;
+
+}
+
+.fa-twitter{
+    color: #1DA1F2;
+}
+
+.fa-linkedin{
+    color:#0077b5;
+}
+
+.fa-instagram{
+    color:#ce5050;
+}
+
+.navbar a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 450px;
+}

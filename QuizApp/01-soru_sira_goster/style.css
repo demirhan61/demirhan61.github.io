@@ -1,0 +1,72 @@
+.dh-secenek{
+	display:flex;
+	justify-content: space-between;
+	border:1px solid black;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin: 9px 0px;
+}
+
+.dogru{
+	background-color: #61f561;
+	color:#085908;
+}
+
+.yanlis{
+	background-color: #e1c1c1;
+	color:#e14141;
+}
+
+.dh-sonraki-soru{
+ transition: all 1s ease;
+ transform:scale(0.5);
+ opacity:0;
+ pointer-events: none;
+}
+
+.dh-sonraki-soru.goster{
+	opacity:1;
+	pointer-events: auto;
+	transform: scale(1);
+}
+
+
+.disabled{
+	pointer-events: none;
+}
+
+.show{
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.hide{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.dh-start-quiz-button.show{
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.dh-start-quiz-button.hide{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.dh-sorular{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.dh-sorular.goster{
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
